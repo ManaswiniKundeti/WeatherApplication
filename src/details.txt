@@ -1,0 +1,5 @@
+For API :
+Goto OpenWeatherMap website and create an account
+Then, goto https://home.openweathermap.org/api_keys to find your API_KEY
+Find the url with the required API data to use in Application.
+ like, http://api.openweathermap.org/data/2.5/weather?q=London,uk
